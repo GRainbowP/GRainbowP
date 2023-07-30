@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grainbowp" alt="grainbowp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/trainbowp" target="blank"><img src="https://img.shields.io/twitter/follow/trainbowp?logo=twitter&style=for-the-badge" alt="trainbowp" /></a> </p>
 
 - 🌱 I’m currently learning **anything that I find interesting**
 
